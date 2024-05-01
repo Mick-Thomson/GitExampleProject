@@ -1,2 +1,3 @@
 string by master
 string by thomson
+string by hammett
